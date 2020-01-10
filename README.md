@@ -14,5 +14,5 @@ Disclosure: I typically do not give any oral critiques. All of the information w
 
 ## Past Ballots
 
-- [Section 3AA - 01.10.2020 - Round 2](https://rbrynteson.github.io/mnballots/01.10.2020.rd2)
+- [Section 3AA - 01.10.2020 - Round 3](https://rbrynteson.github.io/mnballots/01.10.2020.rd3)
 - [Section 3AA - 01.10.2020 - Round 1](https://rbrynteson.github.io/mnballots/01.10.2020.rd1)
