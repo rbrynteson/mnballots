@@ -11,3 +11,7 @@ Most Important: Debate should be about comparing and weighing arguments. In LD (
 Overall: Debate should be inclusive and available to all people. If you goal is to speak as fast as possible and run the most obscure arguments ever to exclude people then this isn't a winning strategy for you. My suggestion would be to run topical arguments at a pace that is inclusive to all students. The more obscure the argument the more time you should spend on explaining it. Don't just throw out random words and assume I'll fill in the blanks for you.
 
 Disclosure: I typically do not give any oral critiques. All of the information will be on the ballot.
+
+## Past Ballots
+
+- [Section 3AA - 01.10.2020 - Round 1](https://rbrynteson.github.io/mnballots/01.10.2020.rd1)
