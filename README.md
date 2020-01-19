@@ -14,6 +14,11 @@ Disclosure: I typically do not give any oral critiques. All of the information w
 
 ## Past Ballots
 
+- [2020 MSHSL State Tournament - 01.18.2020 - Semi](https://rbrynteson.github.io/mnballots/01.18.2020.rd8)
+- [2020 MSHSL State Tournament - 01.18.2020 - Quarters](https://rbrynteson.github.io/mnballots/01.18.2020.rd7)
+- [2020 MSHSL State Tournament - 01.18.2020 - Round 5](https://rbrynteson.github.io/mnballots/01.18.2020.rd5)
+- [2020 MSHSL State Tournament - 01.17.2020 - Round 2](https://rbrynteson.github.io/mnballots/01.17.2020.rd2)
+- [2020 MSHSL State Tournament - 01.17.2020 - Round 1](https://rbrynteson.github.io/mnballots/01.17.2020.rd1)
 - [Section 3AA - 01.11.2020 - Round 6](https://rbrynteson.github.io/mnballots/01.11.2020.rd6)
 - [Section 3AA - 01.11.2020 - Round 5](https://rbrynteson.github.io/mnballots/01.11.2020.rd5)
 - [Section 3AA - 01.11.2020 - Round 4](https://rbrynteson.github.io/mnballots/01.11.2020.rd4)
